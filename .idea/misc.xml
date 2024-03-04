@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/custom_edittext.xml" value="0.36875" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_email.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_lock.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_name.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_user.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/drawable/ic_username.xml" value="0.22017543859649122" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/layout/activity_feed.xml" value="0.20657894736842106" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/layout/activity_log_in.xml" value="0.33" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/layout/activity_main.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/layout/location.xml" value="0.22" />
+        <entry key="..\:/Users/Asus/IntelliJIDEAProjects/FindMe2/app/src/main/res/layout/welcome.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
